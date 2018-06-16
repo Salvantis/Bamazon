@@ -1,0 +1,29 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon clone",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Salvantis/Bamazon.git"
+  },
+  "keywords": [
+    "Amazon",
+    "clone"
+  ],
+  "author": "Peter Taillac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salvantis/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Salvantis/Bamazon#readme",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "chalk": "^1.1.3",
+    "inquirer": "^1.1.2",
+    "mysql": "^2.11.1"
+  }
+}
